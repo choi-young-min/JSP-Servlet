@@ -1,14 +1,14 @@
 ### JSP-Servlet
 
-##JSP와 SERVLET를 이용한 검색 프로젝트
+## JSP와 SERVLET를 이용한 검색 프로젝트
 
-#OS : WINDOW10  
-#LANGUAGE : JAVA 1.8  
-#WEB SERVER : APACHE  
-#WAS SERVER : TOMCAT8.5  
-#DATABASE : ORACLE  
+# OS : WINDOW10  
+# LANGUAGE : JAVA 1.8  
+# WEB SERVER : APACHE  
+# WAS SERVER : TOMCAT8.5  
+# DATABASE : ORACLE  
 
-###주요 기능 :  
+### 주요 기능 :  
 1.로그인 기능  
 2.회원 가입 기능  
 3.로그 아웃 기능  
