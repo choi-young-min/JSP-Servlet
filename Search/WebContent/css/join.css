@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.join{
+	height: 750px;
+}
+.join h2{
+	text-align: center;
+}
+.id-press{
+	margin-left: 70px;
+}
+.id-check{
+	float: right;
+}
+.join-form{
+	margin: 0 auto;
+	width: 100%;
+	height: 500px;
+	position: relative;
+	text-align: center;
+}
+
+.join input{
+	margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.join-text-field{
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+}
+.join-submit-btn{
+   	margin-top: 50px;
+   	
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    background-color: #493beb;
+    color: white;
+   
+}

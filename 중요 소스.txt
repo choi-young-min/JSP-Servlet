@@ -1,0 +1,22 @@
+<table width="728" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="170" valign="bottom" class="hang"><a href="/index.asp"><img src="/img/logo.png" alt="거상" width="170" height="60" border="0" /></a></td>
+    <td><a href="http://www.gamebogam.com/" target="_blank"><img src="http://www.gamebogam.com/img/gamebogam.png" width="180" height="65" border="0" /></a><a href="http://df.gamebogam.com/" target="_blank"></a></td>
+    
+    <td width="279" align="right" valign="bottom">
+	<FORM name=google_search onsubmit="javascript:this.q.value=this.q.value +' site:www.gersangjjang.com;'" target="_blank" action=http://www.google.co.kr/search method=get>
+      <INPUT size=25 name=q> 
+      <INPUT type=submit value=검색></FORM></td>
+  </tr>
+</table>
+
+
+<td width="279" align="right" valign="bottom">
+	
+<FORM name=google_search onsubmit="javascript:this.q.value=this.q.value +' 
+site:www.gersangjjang.com;'" target="_blank" action=http://www.google.co.kr/search method=get>
+      
+
+<INPUT size=25 name=q> 
+     
+ <INPUT type=submit value=검색></FORM></td>

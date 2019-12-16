@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.content #logo{
+	margin-top: 5%;
+	text-align: center;
+	
+}
+.content{
+	height: 750px;
+}
+.content form{
+	text-align: center;
+    padding: 20px;
+}
+.content input{
+    border: 1px solid black;
+}
+.content .text-field{
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.submit-btn{
+	margin-top: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    background-color: #493beb;
+    color: white;
+    margin-left: 10px;
+}
+.login{
+	margin: 0 auto;
+	backgroud-color: black;
+	width: 700px;
+
+}

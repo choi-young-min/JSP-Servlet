@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+
+.header nav{
+	font-size: 20px;
+	position: felx;
+	float: right;
+}
+
+.header a{
+	margin-left: 20px;
+	text-align: right;
+	text-decoration: none;
+	color: black;
+}
+#navbar {
+  padding: 0 20px;
+  border-bottom: 2px solid #eee;
+  overflow: hidden;
+  background-color: white;
+  height: 30px;
+}
+
+#logo{
+	margin-top: 5%;
+	text-align: center;
+}
+.searchform{
+	text-align: center;
+	    text-align: center;
+    padding: 20px;
+}
+.searchform input{
+	border: 1px solid black;
+	padding: 10px;
+}
+#text-field{
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+}
+#submit-btn{
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    background-color: #493beb;
+    color: white;
+}
