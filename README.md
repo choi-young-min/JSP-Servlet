@@ -14,7 +14,5 @@ DATABASE : ORACLE
 3.로그 아웃 기능
 4.자기가 검색하고 싶은 사이트 이미지를 눌린 후 검색창에 입력하고 검색 버튼을 누르면 해당 사이트로가서 검색 되는 기능
 
-DAO
-회원 정보 insert,select,confirmId 기능
 
 
