@@ -3,7 +3,7 @@
 ## JSP와 SERVLET를 이용한 검색 프로젝트
 
  OS : WINDOW10  
- LANGUAGE : JAVA 1.8  
+ LANGUAGE : JAVA 1.8 , jsp, servlet    
  WEB SERVER : APACHE  
  WAS SERVER : TOMCAT8.5  
  DATABASE : ORACLE  
